@@ -23,5 +23,5 @@ In progress
 - Node.js
 - Web3.js
 
-## Usade
+## Usage
 
