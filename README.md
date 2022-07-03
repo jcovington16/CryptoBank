@@ -4,7 +4,7 @@
 @jcovington16
 
 ## Tables of Contents
-- Description [link] (Description)
+- Description [link](Description)
 - Installation [link]
 - Tech Stack [link]
 - Usage [link]
