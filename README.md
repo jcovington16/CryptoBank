@@ -4,10 +4,10 @@
 @jcovington16
 
 ## Tables of Contents
-- [Description](Description)
-- [Installation](Installation)
-- [Tech Stack](Tech Stack)
-- [Usage](Usage)
+- [Description]
+- [Installation]
+- [Tech Stack]
+- [Usage]
 
 
 ## Description
